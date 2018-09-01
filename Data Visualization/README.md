@@ -1,0 +1,2 @@
+As Data-Visualization is one of the most important part of Data Science which is used both before and after Data-Preprocessing. We can have a broad picture of our data how does it looks like when viewed from top. Just like the view of the city is best when looked from the top of the building rather than going into an individual street. 
+So, this repository will have all the attractive Data-Visualization on various data sets.
